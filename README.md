@@ -1,3 +1,3 @@
 # my-journey
 this will be the documentation of my journey
-from one onwards
+from now onwards
